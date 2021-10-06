@@ -1,0 +1,8 @@
+{
+    "status": true,
+    "result": [
+        {"id": 1, "title": "Lista de compras", "text": "Ola mundo!"},
+        {"id": 2, "title": "Testando 123", "text": "lorem ipsummm"},
+        {"id": 3, "title": "Spam de palavras", "text": "dwakoawpodkwaopdkawdoawkdoawkdaw"}
+    ]
+}
